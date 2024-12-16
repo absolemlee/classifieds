@@ -1,0 +1,9 @@
+{
+    "id": "classifieds",
+    "name": "Classifieds",
+    "description": "A module for creating and browsing classifieds.",
+    "version": "1.0.0",
+    "humhub": {
+        "minVersion": "1.9"
+    }
+}
